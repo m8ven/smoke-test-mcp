@@ -1,0 +1,1 @@
+{"name":"m8ven-smoke-test-mcp","version":"1.0.0","private":false,"main":"server.ts","dependencies":{"@modelcontextprotocol/sdk":"^1.0.0"}}
